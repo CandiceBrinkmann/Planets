@@ -1,2 +1,3 @@
-mars is red. 
+mars is red.
+Earth is blue. 
 
